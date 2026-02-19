@@ -1,0 +1,14 @@
+C:\Users\Ольчик\OneDrive\Desktop\vs\macanHuesos\macanHuesos\bin\Debug\net9.0\macanHuesos.exe
+C:\Users\Ольчик\OneDrive\Desktop\vs\macanHuesos\macanHuesos\bin\Debug\net9.0\macanHuesos.deps.json
+C:\Users\Ольчик\OneDrive\Desktop\vs\macanHuesos\macanHuesos\bin\Debug\net9.0\macanHuesos.runtimeconfig.json
+C:\Users\Ольчик\OneDrive\Desktop\vs\macanHuesos\macanHuesos\bin\Debug\net9.0\macanHuesos.dll
+C:\Users\Ольчик\OneDrive\Desktop\vs\macanHuesos\macanHuesos\bin\Debug\net9.0\macanHuesos.pdb
+C:\Users\Ольчик\OneDrive\Desktop\vs\macanHuesos\macanHuesos\obj\Debug\net9.0\macanHuesos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольчик\OneDrive\Desktop\vs\macanHuesos\macanHuesos\obj\Debug\net9.0\macanHuesos.AssemblyInfoInputs.cache
+C:\Users\Ольчик\OneDrive\Desktop\vs\macanHuesos\macanHuesos\obj\Debug\net9.0\macanHuesos.AssemblyInfo.cs
+C:\Users\Ольчик\OneDrive\Desktop\vs\macanHuesos\macanHuesos\obj\Debug\net9.0\macanHuesos.csproj.CoreCompileInputs.cache
+C:\Users\Ольчик\OneDrive\Desktop\vs\macanHuesos\macanHuesos\obj\Debug\net9.0\macanHuesos.dll
+C:\Users\Ольчик\OneDrive\Desktop\vs\macanHuesos\macanHuesos\obj\Debug\net9.0\refint\macanHuesos.dll
+C:\Users\Ольчик\OneDrive\Desktop\vs\macanHuesos\macanHuesos\obj\Debug\net9.0\macanHuesos.pdb
+C:\Users\Ольчик\OneDrive\Desktop\vs\macanHuesos\macanHuesos\obj\Debug\net9.0\macanHuesos.genruntimeconfig.cache
+C:\Users\Ольчик\OneDrive\Desktop\vs\macanHuesos\macanHuesos\obj\Debug\net9.0\ref\macanHuesos.dll
